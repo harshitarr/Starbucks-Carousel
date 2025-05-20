@@ -16,10 +16,10 @@ This carousel showcases coffee product cards with image, title, price, descripti
 
 
 
-## Demo
+## Screenshot
 
-![carousel-demo](demo.gif)  
-*(Replace with your actual demo or gif)*
+![Screenshot 1](https://github.com/harshitarr/Starbucks-Carousel/blob/main/starbucks/public/screenshot1.png)  
+![Screenshot 2](https://github.com/harshitarr/Starbucks-Carousel/blob/main/starbucks/public/screenshot2.png)  
 
 
 
@@ -33,10 +33,11 @@ This carousel showcases coffee product cards with image, title, price, descripti
 
 ## Installation
 
-1. Clone the repository  
+1.Clone the repository  
    ```bash
    git clone https://github.com/yourusername/Starbucks-Carousel.git
    cd Starbucks-Carousel
+   ```
 
 2.Install dependencies
   ```bash
