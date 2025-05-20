@@ -35,6 +35,45 @@ This carousel showcases coffee product cards with image, title, price, descripti
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/react-infinite-carousel.git
-   cd react-infinite-carousel
+   git clone https://github.com/yourusername/Starbucks-Carousel.git
+   cd Starbucks-Carousel
+
+2.Install dependencies
+  ```bash
+   npm install
+  ```
+3.Start the development server
+```bash
+npm run dev
+```
+
+4.Open your browser at http://localhost:3000 to see the carousel.
+
+## Folder Structure
+```bash
+/public
+  /1.png
+  /2.png
+  /3.png
+  /4.png
+  /logo.png
+/src
+  /components
+    Home.js
+  /styles
+    (Tailwind CSS config and styles)
+package.json
+README.md
+```
+
+## Code Highlights
+- extendedSlides clones the first and last slide to create an infinite loop effect.
+- index state tracks the current slide index with special handling for looping.
+- slideRef handles CSS transform to animate the slide container.
+- handleTransitionEnd resets the slide position instantly when the carousel loops around to maintain seamless animation.
+- Navigation buttons disable during animation to prevent double clicks
+
+
+
+        
  
