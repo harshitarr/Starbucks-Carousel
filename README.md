@@ -22,6 +22,8 @@ This carousel showcases coffee product cards with image, title, price, descripti
 ![Screenshot 2](https://github.com/harshitarr/Starbucks-Carousel/blob/main/starbucks/public/screenshot2.png)  
 
 
+## Demo
+[Starbucks-Carousel](https://drive.google.com/file/d/1odWdG2zYIFy1ymh9fnulkAwnhmEp07QA/view?usp=sharing)  
 
 ## Technologies Used
 
