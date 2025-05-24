@@ -37,7 +37,7 @@ This carousel showcases coffee product cards with image, title, price, descripti
 
 1.Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/Starbucks-Carousel.git
+   git clone https://github.com/harshitarr/Starbucks-Carousel.git
    cd Starbucks-Carousel
    ```
 
